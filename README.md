@@ -1,6 +1,6 @@
 # Bayesian
 
-This is me teaching myself a crash course in rJAGS.
+This is me teaching myself a crash course in r JAGS.
 
 ### Seabirds Dive Data 
 The Seabird Dive dataset contains records of dives in 108 European shags, common guillemots, and razorbills. Truthfully, this dataset is likley not the best suited for Bayesian modeling as I selected it early in the learning process (and to appeal and be relevant to BRI). 
